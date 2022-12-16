@@ -1,0 +1,16 @@
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\bin\Debug\net5.0\daspro_Kelas.exe
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\bin\Debug\net5.0\daspro_Kelas.deps.json
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\bin\Debug\net5.0\daspro_Kelas.runtimeconfig.json
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\bin\Debug\net5.0\daspro_Kelas.runtimeconfig.dev.json
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\bin\Debug\net5.0\daspro_Kelas.dll
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\bin\Debug\net5.0\ref\daspro_Kelas.dll
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\bin\Debug\net5.0\daspro_Kelas.pdb
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\obj\Debug\net5.0\daspro_Kelas.csproj.AssemblyReference.cache
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\obj\Debug\net5.0\daspro_Kelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\obj\Debug\net5.0\daspro_Kelas.AssemblyInfoInputs.cache
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\obj\Debug\net5.0\daspro_Kelas.AssemblyInfo.cs
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\obj\Debug\net5.0\daspro_Kelas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\obj\Debug\net5.0\daspro_Kelas.dll
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\obj\Debug\net5.0\ref\daspro_Kelas.dll
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\obj\Debug\net5.0\daspro_Kelas.pdb
+C:\Users\LENOVO IDEAPAD\Desktop\daspro_Kelas\obj\Debug\net5.0\daspro_Kelas.genruntimeconfig.cache

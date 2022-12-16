@@ -1,0 +1,16 @@
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\obj\Debug\net5.0\TebakKata.csproj.AssemblyReference.cache
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\obj\Debug\net5.0\TebakKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\obj\Debug\net5.0\TebakKata.AssemblyInfoInputs.cache
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\obj\Debug\net5.0\TebakKata.AssemblyInfo.cs
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\obj\Debug\net5.0\TebakKata.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\bin\Debug\net5.0\TebakKata.exe
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\bin\Debug\net5.0\TebakKata.deps.json
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\bin\Debug\net5.0\TebakKata.runtimeconfig.json
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\bin\Debug\net5.0\TebakKata.runtimeconfig.dev.json
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\bin\Debug\net5.0\TebakKata.dll
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\bin\Debug\net5.0\ref\TebakKata.dll
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\bin\Debug\net5.0\TebakKata.pdb
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\obj\Debug\net5.0\TebakKata.dll
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\obj\Debug\net5.0\ref\TebakKata.dll
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\obj\Debug\net5.0\TebakKata.pdb
+C:\Users\LENOVO IDEAPAD\Desktop\TebakKata\obj\Debug\net5.0\TebakKata.genruntimeconfig.cache

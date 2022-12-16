@@ -1,0 +1,6 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<p>
+  Selamat datang di kelas {{ matakuliah }}! 
+</p>
+<p *ngIf="matakuliah != 'Pemograman Framework'">Mata Kuliah Diganti</p>
+<button (click)="onChangeMataKuliah()">Ganti Mata Kuliah</button>

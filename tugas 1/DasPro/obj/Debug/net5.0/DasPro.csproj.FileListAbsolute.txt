@@ -1,0 +1,16 @@
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\obj\Debug\net5.0\DasPro.csproj.AssemblyReference.cache
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\obj\Debug\net5.0\DasPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\obj\Debug\net5.0\DasPro.AssemblyInfoInputs.cache
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\obj\Debug\net5.0\DasPro.AssemblyInfo.cs
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\obj\Debug\net5.0\DasPro.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\bin\Debug\net5.0\DasPro.exe
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\bin\Debug\net5.0\DasPro.deps.json
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\bin\Debug\net5.0\DasPro.runtimeconfig.json
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\bin\Debug\net5.0\DasPro.runtimeconfig.dev.json
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\bin\Debug\net5.0\DasPro.dll
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\bin\Debug\net5.0\ref\DasPro.dll
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\bin\Debug\net5.0\DasPro.pdb
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\obj\Debug\net5.0\DasPro.dll
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\obj\Debug\net5.0\ref\DasPro.dll
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\obj\Debug\net5.0\DasPro.pdb
+C:\Users\LENOVO IDEAPAD\Desktop\DasPro\obj\Debug\net5.0\DasPro.genruntimeconfig.cache
